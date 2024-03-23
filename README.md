@@ -10,25 +10,17 @@ This is a Spring Boot application implementing CRUD operations for categories an
 
 ## Setup
 
-1. Clone the repository:
+1. **Download or Clone the Repository**: You can either download the repository as a ZIP file or clone it using Git.
 
-    ```bash
-    git clone https://github.com/your-username/nimap.git
-    ```
+2. **Navigate to the Project Directory**: Open a terminal and change your current directory to the project folder.
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd nimap
-    ```
-
-3. Build the project:
+3. **Build the Project**: Run the following command to build the project:
 
     ```bash
     mvn clean install
     ```
 
-4. Run the application:
+4. **Run the Application**: Start the application using the following command:
 
     ```bash
     mvn spring-boot:run
